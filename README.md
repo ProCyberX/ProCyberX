@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ProCyberX
+- 👋 Hi, I’m Khwairakpam Prosenjit
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning cybersecurity,machine learning,image processing,programming,database management
 - 📫 How to reach me :you can reach me on linkedin @username:khwairakpam prosenjit singha
-- 😄 Pronouns: khwairakpam
+- 😄 Pronouns: @ProCyberX
 
 <!---
 ProCyberX/ProCyberX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
