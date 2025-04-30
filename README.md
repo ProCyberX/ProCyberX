@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ProCyberX
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning cybersecurity,machine learning,image processing,programming,database management
-- 📫 How to reach me 
+- 📫 How to reach me :you can reach me on linkedin @username:khwairakpam prosenjit singha
 - 😄 Pronouns: khwairakpam
 
 <!---
