@@ -1,4 +1,4 @@
-# 🛡️ Khwairakpam Prosenjit Singha | The Silicon Sentinel
+# 🛡️ Khwairakpam Prosenjit Singha 
 
 ### 👋 Hello, I am Khwairakpam Prosenjit
 I am an **Officially Certified Cybersecurity Professional** and **B.Tech CSE Student** at ICFAI University, Tripura. Originally from **Manipur**, I have bridged the gap between academic research and national-level security operations. 
