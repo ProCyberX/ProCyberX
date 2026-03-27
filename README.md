@@ -11,7 +11,7 @@ I don't just "learn" cybersecurity—I am a **Licensed Practitioner** vetted by 
 *   **Certified Ethical Hacker (CEH):** Vetted by **Cisco** for offensive security and penetration testing.
 *   **Cybersecurity Security Associate:** Certified by **Reliance** for corporate infrastructure protection.
 *   **Cyber Hygiene Practitioner:** Officially recognized by the **Ministry of Electronics & IT (MeitY)**, Govt. of India.
-*   **NSDC Change Maker:** Recognized for securing **E-Governance** systems during my tenure as a **Cybersecurity Analyst Intern**.
+*   **MYGOV Change Maker:** Recognized for securing **E-Governance** systems during my tenure as a **Cybersecurity Analyst Intern**.
 
 ---
 
